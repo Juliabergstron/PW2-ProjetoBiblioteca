@@ -1,0 +1,13 @@
+COMO ABRIR A BIBLIOTECA VIRTUAL
+
+1. Extraia esta pasta para C:\xampp\htdocs\
+2. Abra o XAMPP.
+3. Ligue Apache e MySQL.
+4. Abra http://localhost/phpmyadmin
+5. Importe banco.sql
+6. Abra http://localhost/biblioteca-virtual-premium/
+7. Login de demonstração:
+   E-mail: admin@biblioteca.com
+   Senha: 123456
+
+Se aparecer erro de banco, confira config/conexao.php.

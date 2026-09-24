@@ -1,0 +1,8 @@
+</div>
+<footer class="app-footer">Biblioteca Virtual • PHP + MySQL + Bootstrap + JavaScript</footer>
+</main>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="<?= $basePath ?>assets/js/script.js"></script>
+</body>
+</html>
