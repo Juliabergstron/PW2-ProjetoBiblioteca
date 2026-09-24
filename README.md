@@ -320,5 +320,5 @@ DELETE
 
 ## 🎥 Tutorial em vídeo
 
-https://drive.google.com/file/d/1J3uU24qqjbSMBN4zxsFyZznjrrpmjOB1/view?usp=sharing
+[https://drive.google.com/file/d/1J3uU24qqjbSMBN4zxsFyZznjrrpmjOB1/view?usp=sharing](https://drive.google.com/drive/folders/14aGyKDwjRzHDG_XZgOIR_YSHV_jEeke-)
 
